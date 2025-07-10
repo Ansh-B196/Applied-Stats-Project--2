@@ -1,0 +1,78 @@
+Timestamp,UG/PG,Year,attendance,sleepSchedule,nightOwl,branchDifficulty,CGPA,clubsNo,clubEvents,physicalSports,meditation,musicReg,musicHappy,newsPolitics,religion,supportFamily,posToNeg,lifeSatisfaction,happinessGeneral
+3/7/2025 15:58:06,Under-grad,2,9,8,4,8,8.3,2,3,7,1,9,2-Melancholic & Emotional,9,2,9,8,8,7
+3/7/2025 15:58:47,Under-grad,2,8,7,8,8,8.4,3,1,1,5,8,3-Neutral & Balanced,7,8,8,7,7,7
+3/7/2025 16:00:54,Under-grad,1,6,6,6,10,8,0,10,10,1,10,5-Extremely Happy & Euphoric,10,1,10,10,10,10
+3/7/2025 16:02:35,Under-grad,2,7,7,5,6,8.8,3,8,5,1,10,4-Upbeat & Cheerful,5,1,7,9,3,5
+3/7/2025 16:16:13,Under-grad,2,1,2,9,8,8.5,3,7,1,1,8,2-Melancholic & Emotional,3,7,8,8,4,7
+3/7/2025 16:16:18,Under-grad,1,10,8,1,1,8.75,3,10,10,5,5,1-Very Sad & Dark,10,3,4,8,9,10
+3/7/2025 16:21:52,Under-grad,2,7,7,5,5,8.42,1,6,5,3,8,3-Neutral & Balanced,3,7,9,8,10,8
+3/7/2025 16:23:35,Under-grad,1,4,1,7,6,8.5,2,5,5,1,8,3-Neutral & Balanced,3,10,10,8,8,6
+3/7/2025 16:27:16,Under-grad,1,8,7,4,8,8.56,1,4,2,1,10,4-Upbeat & Cheerful,5,6,8,6,6,7
+3/7/2025 16:46:32,Under-grad,1,4,5,6,7,8.06,3,4,7,3,8,4-Upbeat & Cheerful,4,5,7,8,6,6
+3/7/2025 16:51:08,Under-grad,2,3,2,10,9,7.62,0,2,4,1,9,3-Neutral & Balanced,3,2,7,5,2,4
+3/7/2025 17:01:30,Under-grad,1,3,2,8,4,8.53,0,1,5,1,9,4-Upbeat & Cheerful,6,9,4,3,3,3
+3/7/2025 17:28:31,Under-grad,1,6,7,5,6,7.5,3,8,9,2,10,4-Upbeat & Cheerful,3,3,7,8,9,9
+3/7/2025 17:38:58,Under-grad,2,7,7,3,9,7,0,1,9,1,4,1-Very Sad & Dark,2,2,9,10,8,9
+3/7/2025 18:02:16,Under-grad,1,6,6,8,3,9.29,1,3,5,1,9,4-Upbeat & Cheerful,1,1,7,9,9,8
+3/7/2025 18:08:27,Under-grad,1,9,6,4,3,8.5,2,6,8,1,8,3-Neutral & Balanced,4,3,9,6,6,7
+3/7/2025 18:10:39,Under-grad,1,4,7,3,5,8.2,5,6,4,2,9,4-Upbeat & Cheerful,1,4,8,8,10,8
+3/7/2025 18:15:13,Under-grad,1,10,8,1,7,8,0,1,10,1,10,4-Upbeat & Cheerful,4,1,8,7,6,6
+3/7/2025 18:37:05,Under-grad,2,5,2,7,9,7.82,0,2,6,2,10,3-Neutral & Balanced,2,2,8,7,5,4
+3/7/2025 18:49:53,Under-grad,2,10,7,3,8,9.41,3,8,1,1,6,4-Upbeat & Cheerful,10,9,10,8,8,7
+3/7/2025 18:51:00,Under-grad,2,2,6,5,10,7.4,4,8,8,2,3,5-Extremely Happy & Euphoric,7,8,4,7,5,8
+3/7/2025 18:54:25,Under-grad,2,8,6,5,6,6.5,1,7,8,1,9,3-Neutral & Balanced,3,7,6,4,8,7
+3/7/2025 19:01:03,Under-grad,1,7,5,5,6,8.19,0,3,9,3,9,4-Upbeat & Cheerful,4,7,9,8,6,8
+3/7/2025 19:57:49,Under-grad,2,5,1,10,7,8.75,0,1,10,1,10,1-Very Sad & Dark,4,10,7,6,5,3
+3/7/2025 20:11:19,Under-grad,2,4,9,2,7,8.85,1,2,5,5,10,5-Extremely Happy & Euphoric,1,10,10,8,10,10
+3/7/2025 20:11:43,Under-grad,2,9,8,3,7,9.5,3,7,5,1,4,2-Melancholic & Emotional,3,5,7,6,8,7
+3/7/2025 20:18:37,Under-grad,2,1,3,5,9,6.9,3,6,2,1,4,2-Melancholic & Emotional,7,1,4,5,4,6
+3/7/2025 20:23:15,Under-grad,2,5,3,7,8,8.9,2,3,6,1,1,3-Neutral & Balanced,7,5,9,7,5,7
+3/7/2025 20:39:20,Under-grad,2,8,7,3,5,8,1,6,7,1,9,4-Upbeat & Cheerful,3,1,8,5,4,5
+3/7/2025 20:39:45,Under-grad,2,7,3,8,7,9.2,3,8,8,2,7,4-Upbeat & Cheerful,4,7,7,6,10,7
+3/7/2025 20:54:44,Under-grad,1,9,5,4,9,9.2,0,1,5,3,4,3-Neutral & Balanced,3,8,8,5,5,5
+3/7/2025 21:05:26,Under-grad,2,7,5,4,5,8.45,1,3,9,2,3,4-Upbeat & Cheerful,2,1,4,5,6,4
+3/7/2025 21:10:48,Under-grad,2,9,4,7,10,8.2,5,5,5,1,10,4-Upbeat & Cheerful,1,1,10,10,10,10
+3/7/2025 21:17:50,Under-grad,2,7,8,4,10,8.11,1,7,9,1,9,3-Neutral & Balanced,7,2,8,3,3,3
+3/7/2025 21:23:15,Under-grad,2,9,7,7,7,9.16,4,8,7,2,10,3-Neutral & Balanced,6,7,9,8,7,7
+3/7/2025 21:32:16,Under-grad,2,9,6,6,6,7.8,0,1,3,1,7,4-Upbeat & Cheerful,1,1,2,5,5,3
+3/7/2025 21:32:19,Under-grad,2,6,3,6,8,9,2,8,4,1,9,2-Melancholic & Emotional,6,2,6,4,3,4
+3/7/2025 21:32:58,Under-grad,2,1,5,5,5,8.94,2,5,5,1,10,4-Upbeat & Cheerful,4,4,8,10,6,7
+3/7/2025 21:33:09,Under-grad,2,3,7,7,7,8.52,0,1,3,1,10,3-Neutral & Balanced,5,1,7,7,5,7
+3/7/2025 21:33:18,Under-grad,2,9,5,8,10,8.5,1,8,10,2,6,3-Neutral & Balanced,7,5,9,6,5,8
+3/7/2025 21:35:02,Under-grad,2,3,4,8,8,8.47,2,2,5,1,9,3-Neutral & Balanced,1,1,9,9,9,8
+3/7/2025 21:35:32,Under-grad,1,8,7,7,9,8.5,0,4,8,2,8,2-Melancholic & Emotional,4,2,7,6,7,6
+3/7/2025 21:36:25,Under-grad,2,8,8,3,7,8.8,3,6,3,1,10,3-Neutral & Balanced,4,5,10,7,10,8
+3/7/2025 21:44:59,Under-grad,4,8,10,2,7,7.63,2,7,10,3,8,3-Neutral & Balanced,6,5,7,7,6,7
+3/7/2025 21:45:47,Under-grad,2,9,8,5,7,9,3,7,4,1,2,3-Neutral & Balanced,6,3,8,7,7,7
+3/7/2025 21:50:21,Under-grad,2,10,5,5,8,8.7,3,9,5,2,9,3-Neutral & Balanced,6,8,6,4,5,5
+3/7/2025 22:29:24,Under-grad,1,8,6,5,7,9.1,0,3,6,2,9,3-Neutral & Balanced,4,2,10,7,8,7
+3/7/2025 22:37:40,Under-grad,2,5,6,6,9,7.5,3,4,3,1,9,2-Melancholic & Emotional,9,1,8,5,2,5
+3/7/2025 22:43:09,Under-grad,1,4,7,6,6,9,4,8,10,1,10,3-Neutral & Balanced,3,2,8,8,7,7
+3/7/2025 22:47:38,Under-grad,2,4,4,5,10,8.96,4,10,5,1,10,3-Neutral & Balanced,3,6,10,6,8,9
+3/7/2025 22:49:13,Under-grad,2,4,7,2,6,9,1,1,3,1,8,3-Neutral & Balanced,1,2,8,7,8,8
+3/7/2025 22:58:40,Under-grad,1,10,5,4,7,9,0,2,1,1,10,3-Neutral & Balanced,10,10,3,7,10,7
+3/7/2025 23:04:44,Under-grad,2,3,2,10,4,7,3,9,7,1,10,4-Upbeat & Cheerful,3,4,6,6,7,7
+3/7/2025 23:09:47,Under-grad,2,8,10,6,8,8,3,10,1,1,10,5-Extremely Happy & Euphoric,3,8,9,9,9,9
+3/7/2025 23:11:59,Post-grad,1,10,8,4,3,9,1,6,8,1,8,3-Neutral & Balanced,5,5,9,9,10,9
+3/7/2025 23:22:42,Under-grad,2,9,8,5,7,7.15,1,4,9,1,9,3-Neutral & Balanced,2,6,3,6,5,5
+3/7/2025 23:31:10,Under-grad,3,5,7,4,8,8.97,3,4,7,1,7,2-Melancholic & Emotional,7,7,9,7,7,7
+3/7/2025 23:34:50,Under-grad,3,6,8,5,9,8.48,0,1,4,1,7,4-Upbeat & Cheerful,3,5,8,7,7,7
+3/7/2025 23:47:33,Under-grad,3,7,7,4,5,9.5,2,7,7,1,8,3-Neutral & Balanced,8,7,9,8,9,9
+3/8/2025 0:14:31,Under-grad,2,3,3,7,6,9.47,4,7,4,2,8,3-Neutral & Balanced,4,3,7,6,5,6
+3/8/2025 0:24:57,Under-grad,2,5,3,8,9,8.4,0,1,9,2,10,2-Melancholic & Emotional,7,5,6,3,4,5
+3/8/2025 0:51:00,Under-grad,3,2,4,7,7,8.1,0,3,7,1,8,4-Upbeat & Cheerful,1,5,8,8,7,7
+3/8/2025 0:57:46,Under-grad,3,7,6,6,8,9.16,0,1,4,2,9,2-Melancholic & Emotional,2,7,7,7,8,8
+3/8/2025 1:04:27,Post-grad,1,5,4,7,10,8,7,9,10,3,10,3-Neutral & Balanced,8,9,8,8,7,7
+3/8/2025 2:15:14,Under-grad,2,6,2,8,8,7,3,7,4,1,8,3-Neutral & Balanced,6,5,5,5,5,5
+3/8/2025 2:17:39,Under-grad,2,1,7,8,7,8.8,3,2,4,2,10,4-Upbeat & Cheerful,8,6,9,8,9,10
+3/8/2025 8:45:42,Under-grad,2,1,10,4,7,6.94,0,1,8,1,8,3-Neutral & Balanced,3,2,1,1,1,2
+3/8/2025 9:57:52,Post-grad,2,10,9,4,3,9.4,0,5,6,2,10,3-Neutral & Balanced,8,5,8,7,7,7
+3/8/2025 10:15:48,Under-grad,2,9,8,3,8,9,0,10,6,5,10,3-Neutral & Balanced,1,10,8,5,10,7
+3/8/2025 10:49:36,Under-grad,2,8,7,8,7,8.1,0,1,3,1,9,3-Neutral & Balanced,2,2,7,8,8,8
+3/8/2025 10:51:10,Under-grad,2,6,6,1,5,7.8,0,3,6,2,7,4-Upbeat & Cheerful,4,7,4,4,3,5
+3/8/2025 10:53:14,Under-grad,2,7,2,3,8,7,0,1,2,1,9,4-Upbeat & Cheerful,6,2,9,8,4,5
+3/8/2025 11:20:41,Post-grad,2,10,10,2,10,8.56,3,8,10,5,2,3-Neutral & Balanced,10,1,6,5,4,2
+3/8/2025 12:13:47,Under-grad,2nd,2,1,9,5,Idk,2,7,1,2,7,3-Neutral & Balanced,2,7,2,5,5,5
+3/8/2025 13:39:07,Under-grad,3rd year,5,10,7,5,8.16,5,10,8,1,10,4-Upbeat & Cheerful,7,8,9,6,5,7
+3/8/2025 23:27:14,Under-grad,2,8,6,4,2,9.3,5,5,9,2,7,3-Neutral & Balanced,8,6,9,8,7,8
+3/8/2025 23:29:47,Under-grad,2nd,8,3,7,7,7.3,2,5,9,1,9,2-Melancholic & Emotional,1,1,4,7,4,3
