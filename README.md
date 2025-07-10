@@ -2,7 +2,7 @@
 
 **Team 28**: Devesh Gautam, Ansh Bhatia, Sivanessan  
 **Course**: Applied Statistics (Spring 2025)  
-**Institution**: [Your College/University Name]
+**Institution**: IIT Hyderabad
 
 ---
 
