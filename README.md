@@ -1,6 +1,6 @@
 # 📊 Applied Statistics Course Project – Data Analysis of Student Behavior
 
-**Team 28**: Devesh Gautam, Ansh Bhatia, Sivanessan  
+**Team 28**: Devesh Gautam, Ansh Bhatia
 **Course**: Applied Statistics (Spring 2025)  
 **Institution**: IIT Hyderabad
 
